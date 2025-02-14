@@ -6,8 +6,23 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		18794CB32D5A0D9D0048D9BA /* pdf1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CB22D5A0D9D0048D9BA /* pdf1.pdf */; };
+		18794CB62D5A10610048D9BA /* pdf3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CB42D5A10610048D9BA /* pdf3.pdf */; };
+		18794CB72D5A10610048D9BA /* pdf2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CB52D5A10610048D9BA /* pdf2.pdf */; };
+		18794CBB2D5A18860048D9BA /* pdf4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CB82D5A18860048D9BA /* pdf4.pdf */; };
+		18794CBC2D5A18860048D9BA /* pdf5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CB92D5A18860048D9BA /* pdf5.pdf */; };
+		18794CBD2D5A18860048D9BA /* pdf6.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 18794CBA2D5A18860048D9BA /* pdf6.pdf */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		18794C9B2D5990C10048D9BA /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18794CB22D5A0D9D0048D9BA /* pdf1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf1.pdf; path = ../../../Downloads/pdf1.pdf; sourceTree = "<group>"; };
+		18794CB42D5A10610048D9BA /* pdf3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf3.pdf; path = ../../../Downloads/pdf3.pdf; sourceTree = "<group>"; };
+		18794CB52D5A10610048D9BA /* pdf2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf2.pdf; path = ../../../Downloads/pdf2.pdf; sourceTree = "<group>"; };
+		18794CB82D5A18860048D9BA /* pdf4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf4.pdf; path = ../../../Downloads/pdf4.pdf; sourceTree = "<group>"; };
+		18794CB92D5A18860048D9BA /* pdf5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf5.pdf; path = ../../../Downloads/pdf5.pdf; sourceTree = "<group>"; };
+		18794CBA2D5A18860048D9BA /* pdf6.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = pdf6.pdf; path = ../../../Downloads/pdf6.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +47,12 @@
 		18794C922D5990C10048D9BA = {
 			isa = PBXGroup;
 			children = (
+				18794CB82D5A18860048D9BA /* pdf4.pdf */,
+				18794CB92D5A18860048D9BA /* pdf5.pdf */,
+				18794CBA2D5A18860048D9BA /* pdf6.pdf */,
+				18794CB52D5A10610048D9BA /* pdf2.pdf */,
+				18794CB42D5A10610048D9BA /* pdf3.pdf */,
+				18794CB22D5A0D9D0048D9BA /* pdf1.pdf */,
 				18794C9D2D5990C10048D9BA /* Demo */,
 				18794C9C2D5990C10048D9BA /* Products */,
 			);
@@ -109,6 +130,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18794CBB2D5A18860048D9BA /* pdf4.pdf in Resources */,
+				18794CBC2D5A18860048D9BA /* pdf5.pdf in Resources */,
+				18794CBD2D5A18860048D9BA /* pdf6.pdf in Resources */,
+				18794CB62D5A10610048D9BA /* pdf3.pdf in Resources */,
+				18794CB72D5A10610048D9BA /* pdf2.pdf in Resources */,
+				18794CB32D5A0D9D0048D9BA /* pdf1.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
